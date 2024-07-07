@@ -20,7 +20,7 @@ WhatsApp Assistant is a Node.js application designed to automate event schedulin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/whatsapp-assistant.git
+git clone https://github.com/pontiggia/whatsapp-assistant.git
 ```
 
 2. Navigate to the project directory:
